@@ -58,7 +58,7 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowedOrigins(List.of(
             frontendUrl,
-            "https://magnificent-syrniki-861096.netlify.app",
+            "https://astonishing-maamoul-646f4c.netlify.app",
             "http://localhost:5173",
             "http://localhost:3000"
         ));
